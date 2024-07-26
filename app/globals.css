@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 :root {
-  --background-color: #ffffff; /* Default to light theme background color */
+  --background-color: #ffffff; 
 }
 
 body {
-  @apply bg-background-light text-black dark:text-white dark:bg-background-dark; /* Use Tailwind classes for background colors */
+  @apply bg-background-light text-black dark:text-white dark:bg-background-dark; 
 }
 
 @keyframes highlight {

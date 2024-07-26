@@ -11,7 +11,6 @@ const HeroSection = () => {
       </div>
 
       <div className="flex flex-col justify-center items-center gap-8">
-        {/* TODO:: Add typescript color in tailwind.config.js */}
         <h1 className="text-4xl sm:text-6xl text-center font-bold mt-16 md:mt-4">
           The{" "}
           <span className=" p-2  !text-white rounded-xl ">

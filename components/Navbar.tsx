@@ -52,7 +52,7 @@ const Navbar = () => {
       </Group>
 
       <AppShell.Navbar className="flex flex-col gap-4 " px={8}>
-        <Link href="https://www.freestyle.sh/get-started">
+        <Link href="https://www.freestyle.sh/get-started" target="_blank">
           <UnstyledButton>Docs</UnstyledButton>
         </Link>
         <Link href="https://www.freestyle.sh/demo">
